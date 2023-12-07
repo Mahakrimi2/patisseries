@@ -5,21 +5,35 @@
         "categorie": "brownies",
         "description": "Cake made of a chocolate cookie, garnished with pecans",
         "prix": "9.00dt",
-        "image": "@/assets/11.jpg"
+        "image": "11.jpg"
       },
       {
         "id": 2,
         "categorie": "pie",
         "description": "A crust of pastry filled with fruits, cream, chocolate, or other ingredients.",
         "prix": "7.00dt",
-        "image": "@/assets/10.jpg"
+        "image": "10.jpg"
       },
       {
         "id": 3,
         "categorie": "croissant",
         "description": "Pastry made from puff pastry containing one or more bars of chocolate.",
         "prix": "2.00dt",
-        "image": "@/assets/croi.png"
+        "image": "croi.png"
+      },
+      {
+        "id": 4,
+        "categorie": "croissant1",
+        "description": "Pastry made from puff pastry containing one or more bars of chocolate.",
+        "prix": "2.00dt",
+        "image": "croi.png"
+      },
+          {
+        "id": 5,
+        "categorie": "croissant2",
+        "description": "Pastry made from puff pastry containing one or more bars of chocolate.",
+        "prix": "2.00dt",
+        "image": "croi.png"
       }
     ]
   }
